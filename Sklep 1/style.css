@@ -1,0 +1,101 @@
+*{
+    margin:0; 
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Readex Pro', serif;
+        font-size: 15px;
+    
+}
+body
+{
+    background-color: #e2dec1;
+}
+#wrapper
+{
+    max-width: 1300px;
+    margin:0 auto;
+    background-color: white;
+}
+a.menu
+{
+    display: block;
+    float:left; 
+    width: 10%;
+    padding: 25px 10px;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+
+}
+#logo
+{
+    display: block;
+    float: right; 
+    width: 10%;
+    padding: 15px 10px;
+    text-decoration: none;
+}
+#baner
+{
+    float: left; 
+    width: 100%;
+    padding: 0px 10px;
+
+}
+#produkty
+{
+    margin-left: 0px;
+    float: left;
+    padding: 0 10px 0 10px;
+    width: 30%;
+}
+article
+{
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+article h1
+{
+    text-align: center;
+    padding-bottom: 20px;
+}
+article p
+{
+    line-height: 18px;
+    padding: 10px;
+}
+#opis
+{
+
+    line-height: 18px;
+    padding: 15px;
+    margin-left: 10%;
+}
+#zaloga
+{
+    margin-left: 0px;
+    float: right;
+    padding: 0 10px 0 10px;
+    width: 30%;
+}
+#zalogaarticle
+{
+    float: right;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+#opis1
+{
+    line-height: 18px;
+    padding: 15px;
+    margin-right: 10%; 
+}
+footer
+{
+    float:left;
+    text-align: center;
+    padding-top: 30px;
+}
